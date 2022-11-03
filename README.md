@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @fawadkhanf3
+- 👀 I’m an Aerospace Engineer interested in Flight Vehicle GNC (Guidance, Navigation & Control)
