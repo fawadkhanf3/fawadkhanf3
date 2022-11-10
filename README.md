@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @fawadkhanf3
 - 👀 I’m an Aerospace Engineer interested in Flight Vehicle GNC (Guidance, Navigation & Control), Flight Dynamics, State Estimation, Filtering, Nonlinear Control Synthesis techniques, Machine Learning and Reinforcement Learning
-- 😃 I'm currently working as a Research Associate at Institute of Space Technology, Pakistan and seeking a fully funded MS in Aerospace Engineering.
+- 😃 I'm currently working as a Research Associate at Institute of Space Technology, Pakistan and seeking a funded MS in Aerospace Engineering.
